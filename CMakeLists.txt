@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.8)
 
-project("maze-solver" C)
+project("c-memory-file" C)
 
 add_executable(${PROJECT_NAME}
     "src/main.c"
